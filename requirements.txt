@@ -17,6 +17,7 @@ streamlit>=1.28.0
 # Financial data sources
 yfinance>=0.2.0
 requests>=2.31.0
+hyperliquid-python-sdk>=0.8.0
 python-dotenv>=1.0.0
 alpaca-py>=0.13.0
 
